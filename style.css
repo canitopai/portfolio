@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    text-align: center;
+    justify-items: center;
+
+}
+.titulonav{
+    margin-left: 12px;
+    color: grey;
+}
